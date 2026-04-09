@@ -1,3 +1,7 @@
+Note:
+This project was developed in a training environment where datasets were accessed via platform-specific paths (/datasets/...).
+Data files are not included in this repository.
+
 # Customer Churn Prediction
 
 ## Problem
