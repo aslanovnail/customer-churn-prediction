@@ -34,3 +34,7 @@ Target variable:
 - pandas
 - scikit-learn
 - CatBoost
+
+## Installation
+
+pip install -r requirements.txt
